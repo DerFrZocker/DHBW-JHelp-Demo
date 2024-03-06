@@ -33,9 +33,9 @@
             <version>${netbeans.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.netbeans.api</groupId>
-            <artifactId>org-netbeans-modules-javahelp</artifactId>
-            <version>${netbeans.version}</version>
+            <groupId>de.dhbw.mwulle</groupId>
+            <artifactId>jhelp</artifactId>
+            <version>1.0.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
     <properties>

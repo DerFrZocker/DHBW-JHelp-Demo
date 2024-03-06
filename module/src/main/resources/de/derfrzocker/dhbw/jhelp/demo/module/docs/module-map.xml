@@ -6,4 +6,17 @@ Click nbfs://nbhost/SystemFileSystem/Templates/NetBeansModuleDevelopment-files/t
 <!DOCTYPE map PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN" "http://java.sun.com/products/javahelp/map_2_0.dtd">
 <map version="2.0">
     <mapID target="de.derfrzocker.dhbw.jhelp.demo.module.about" url="module-about.html"/>
+    <mapID target="closed-directory-icon" url="icons/closed-directory.png"/>
+    <mapID target="open-directory-icon" url="icons/open-directory.png"/>
+    <mapID target="rocket-lunch-icon" url="icons/rocket-lunch.png"/>
+    <mapID target="video-camera-icon" url="icons/video-camera-alt.png"/>
+    <mapID target="document-icon" url="icons/document.png"/>
+
+
+    <mapID target="rocket-lunch" url="html/rocket-lunch.html"/>
+    <mapID target="rocket-lunch-types" url="html/rocket-lunch.html#rocket-types"/>
+
+
+    <mapID target="normal-camera" url="html/normal-camera.html"/>
+    <mapID target="video-camera" url="html/video-camera.html"/>
 </map>

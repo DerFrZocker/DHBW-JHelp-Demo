@@ -1,0 +1,11 @@
+body {
+    margin: 10vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border: dashed black;
+}

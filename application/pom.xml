@@ -50,6 +50,11 @@
             <artifactId>dhbw-jhelp-demo-module</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>dhbw-jhelp-demo-module-more-books</artifactId>
+            <version>${project.version}</version>
+        </dependency>
     </dependencies>
 
     <build>

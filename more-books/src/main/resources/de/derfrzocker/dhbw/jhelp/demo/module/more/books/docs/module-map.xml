@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/NetBeansModuleDevelopment-files/template_myplugin-map.xml to edit this template
+-->
+<!DOCTYPE map PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN" "http://java.sun.com/products/javahelp/map_2_0.dtd">
+<map version="2.0">
+    <mapID target="de.derfrzocker.dhbw.jhelp.demo.module.more.books.about" url="module-about.html"/>
+    <mapID target="closed-directory-icon" url="icons/closed-directory.png"/>
+    <mapID target="open-directory-icon" url="icons/open-directory.png"/>
+    <mapID target="rocket-lunch-icon" url="icons/rocket-lunch.png"/>
+    <mapID target="video-camera-icon" url="icons/video-camera-alt.png"/>
+    <mapID target="document-icon" url="icons/document.png"/>
+
+
+    <mapID target="books" url="html/books/books.html"/>
+    <mapID target="northern-lights" url="html/books/northern-lights.html"/>
+    <mapID target="spider" url="html/books/spider.html"/>
+</map>

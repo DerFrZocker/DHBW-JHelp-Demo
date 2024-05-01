@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/NetBeansModuleDevelopment-files/template_myplugin-toc.xml to edit this template
+-->
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN"
+        "http://java.sun.com/products/javahelp/toc_2_0.dtd">
+<toc version="2.0" categoryclosedimage="closed-directory-icon" categoryopenimage="open-directory-icon"
+     topicimage="document-icon">
+    <tocitem text="About this module" target="de.derfrzocker.dhbw.jhelp.demo.module.more.books.about"/>
+    <tocitem text="Books" target="books" mergetype="javax.help.SortMerge">
+        <tocitem text="Northern Lights" target="northern-lights"/>
+        <tocitem text="So I'm a Spider, So What?" target="spider"/>
+    </tocitem>
+</toc>

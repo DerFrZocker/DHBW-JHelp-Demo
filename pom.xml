@@ -45,6 +45,7 @@
         <module>branding</module>
         <module>application</module>
         <module>module</module>
+        <module>more-books</module>
     </modules>
 
     <properties>

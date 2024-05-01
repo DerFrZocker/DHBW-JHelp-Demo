@@ -5,18 +5,18 @@ Click nbfs://nbhost/SystemFileSystem/Templates/NetBeansModuleDevelopment-files/t
 -->
 <!DOCTYPE helpset PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp HelpSet Version 2.0//EN" "http://java.sun.com/products/javahelp/helpset_2_0.dtd">
 <helpset version="2.0">
-    <title>dhbw-jhelp-demo-module Help</title>
+    <title>More Books</title>
     <maps>
-        <homeID>de.derfrzocker.dhbw.jhelp.demo.module.about</homeID>
+        <homeID>de.derfrzocker.dhbw.jhelp.demo.module.more.books.about</homeID>
         <mapref location="module-map.xml"/>
     </maps>
-    <view mergetype="javax.help.SortMerge">
+    <view mergetype="javax.help.UniteAppendMerge">
         <name>TOC</name>
         <label>Table of Contents</label>
         <type>javax.help.TOCView</type>
         <data>module-toc.xml</data>
     </view>
-    <view mergetype="javax.help.SortMerge">
+    <view mergetype="javax.help.UniteAppendMerge">
         <name>Index</name>
         <label>Index</label>
         <type>javax.help.IndexView</type>

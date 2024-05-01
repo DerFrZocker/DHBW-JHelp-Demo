@@ -9,7 +9,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/NetBeansModuleDevelopment-files/t
     <indexitem text="Rocket Lunch" target="rocket-lunch">
         <indexitem text="[Not working] Rocket Lunch Types" target="rocket-lunch-types"/>
     </indexitem>
-    <indexitem text="Camera">
+    <indexitem text="Camera" mergetype="javax.help.UniteAppendMerge">
         <indexitem text="Video Camera" target="video-camera"/>
         <indexitem text="Normal Camera" target="normal-camera"/>
     </indexitem>
